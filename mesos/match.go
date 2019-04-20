@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	ogle "github.com/jacobsa/oglematchers"
 	"github.com/mesos/mesos-go/api/v0/mesosproto"
 

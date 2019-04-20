@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"github.com/braintree/manners"
 	"github.com/prometheus/client_golang/prometheus"
 

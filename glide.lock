@@ -87,7 +87,7 @@ imports:
   version: 9a96098268ef555eb1f04d8b1ee813d0a87e5089
   subpackages:
   - zk
-- name: github.com/sirupsen/logrus
+- name: github.com/Sirupsen/logrus
   version: f006c2ac4710855cf0f916dd6b77acf6b048dc6e
 - name: github.com/stretchr/objx
   version: cbeaeb16a013161a98496fad62933b1d21786672
