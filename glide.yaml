@@ -1,6 +1,6 @@
 package: github.com/eremetic-framework/eremetic
 import:
-- package: github.com/Sirupsen/logrus
+- package: github.com/sirupsen/logrus
   version: ~1.0.0
 - package: github.com/boltdb/bolt
   version: ~1.3.0
